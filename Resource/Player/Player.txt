@@ -1,0 +1,5 @@
+base 64, 80	1
+move 64, 80	5
+jump 64, 80	1
+Attack1 128, 96	6
+Attack2 128, 96	7
